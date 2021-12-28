@@ -1,10 +1,10 @@
 - Hi, I’m Sajal Gupta
 - Things I like in random order ->
-  Working out
-  Video games
-  Movies
-  Virtual Reality
-  Computer Science
+  - Working out
+  - Video games
+  - Movies
+  - Virtual Reality
+  - Computer Science
  
 
 
