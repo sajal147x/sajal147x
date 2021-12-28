@@ -1,5 +1,5 @@
-Hi, I’m Sajal Gupta
-Things I like in random order ->
+- Hi, I’m Sajal Gupta
+- Things I like in random order ->
   Working out
   Video games
   Movies
